@@ -1,6 +1,23 @@
 # 3D-Biomedical-Data-Visualization-using-MATLAB
 3D Biomedical Data Visualization using MATLAB
 
+# AI-Bio-Robotics Simulation Portfolio
+
+## MATLAB Biomedical Simulation
+
+### Project 1: 3D Patient Medical Data Visualization
+- Visualizes systolic blood pressure, glucose level, and cholesterol data.
+- Demonstrates biomedical data visualization for AI-driven healthcare analytics.
+
+[Open MATLAB Online](MATLAB_LINK_HERE)
+
+### Project 2: 3D Drug Diffusion Simulation
+- Implements a pharmacokinetic drug concentration model.
+- Extends the model into tissue-depth-based 3D diffusion.
+
+[Open MATLAB Online](MATLAB_LINK_HERE)
+
+
 - Visualized systolic blood pressure, glucose level, and cholesterol data
 - Generated a 3D scatter plot for patient-level biomedical feature analysis
 - Demonstrated exploratory data visualization for AI-driven healthcare analytics
